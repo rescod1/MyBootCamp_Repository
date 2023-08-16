@@ -1,0 +1,13 @@
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\bin\Debug\Calculator.exe
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\bin\Debug\Calculator.pdb
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\obj\Debug\Calculator.exe
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\obj\Debug\Calculator.pdb
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\obj\Debug\Calculator.Menu.resources
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\obj\Debug\Calculator.password.resources
+C:\Users\student\Documents\кубрак анастасия\MyBootcampProject\Calculator\obj\Debug\Calculator.Calculator.resources
